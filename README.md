@@ -26,13 +26,15 @@ Crie um repositório **público** no github em uma conta pessoal sua e nos envie
 
 ## Bônus ##
 
-- Fazer um formulário contendo as informações necessárias para fazer uma requisição **POST** 
-`{
+- Fazer um formulário contendo as informações necessárias para fazer uma requisição **POST**
+```
+{
     userId: 1,
     title: 'title ex',
     body: 'body ex',
 
-}`
+}
+```
 - Fazer uma requisição de **PUT** ou **PATCH** para alterar um item da listagem de posts
 
 
